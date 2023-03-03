@@ -187,9 +187,17 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 2761813630168936477, guid: ade26c836a7fc9a45bb695901aa87a86, type: 3}
+      propertyPath: mTargetName
+      value: cardinal
+      objectReference: {fileID: 0}
     - target: {fileID: 3646649387443383873, guid: ade26c836a7fc9a45bb695901aa87a86, type: 3}
       propertyPath: m_Name
       value: Birds
+      objectReference: {fileID: 0}
+    - target: {fileID: 6077932686019426418, guid: ade26c836a7fc9a45bb695901aa87a86, type: 3}
+      propertyPath: mTargetName
+      value: blue-jay
       objectReference: {fileID: 0}
     - target: {fileID: 6658068206325212030, guid: ade26c836a7fc9a45bb695901aa87a86, type: 3}
       propertyPath: m_RootOrder
@@ -234,6 +242,10 @@ PrefabInstance:
     - target: {fileID: 6658068206325212030, guid: ade26c836a7fc9a45bb695901aa87a86, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6998010206966502938, guid: ade26c836a7fc9a45bb695901aa87a86, type: 3}
+      propertyPath: mTargetName
+      value: chickadee
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ade26c836a7fc9a45bb695901aa87a86, type: 3}
