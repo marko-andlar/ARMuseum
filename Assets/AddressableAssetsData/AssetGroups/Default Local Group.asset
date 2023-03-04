@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: f9cbb091fc4e7f14e87e4798cb42f1cc
+  m_SerializeEntries:
+  - m_GUID: b6cc5a9fa377f9540a069807121bc2b5
+    m_Address: Assets/App/Prefabs/ARScene/Birds/Models/Model BlueJay.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: f78d58b002ea21d4189ffde324e5db90
+    m_Address: Assets/App/Prefabs/ARScene/Birds/Models/Model Chickadee.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  - m_GUID: 39f17da922a55b94dbf17a17a96be0e8
+    m_Address: Assets/App/Prefabs/ARScene/Birds/Models/Model Cardinal.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    m_MainAsset: {fileID: 0}
+    m_TargetAsset: {fileID: 0}
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 22b28351d27f5f342966f25161b0aa9f, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b9cfc36de3a28a44e81068d0a36794d9, type: 2}
+    - {fileID: 11400000, guid: 0a82aa8950ee3214c8a82820a0d4b086, type: 2}
