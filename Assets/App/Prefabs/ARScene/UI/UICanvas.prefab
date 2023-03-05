@@ -253,6 +253,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 706691547967669502, guid: c35ce2a958992204daca62f5d8c6dc68, type: 3}
+      propertyPath: m_Name
+      value: Pages
+      objectReference: {fileID: 0}
+    - target: {fileID: 2387736094517579851, guid: c35ce2a958992204daca62f5d8c6dc68, type: 3}
+      propertyPath: m_Name
+      value: ToggleGroup
+      objectReference: {fileID: 0}
     - target: {fileID: 2737847214192456425, guid: c35ce2a958992204daca62f5d8c6dc68, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -300,6 +308,10 @@ PrefabInstance:
     - target: {fileID: 3395912249061700204, guid: c35ce2a958992204daca62f5d8c6dc68, type: 3}
       propertyPath: m_RootOrder
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8357621361835891122, guid: c35ce2a958992204daca62f5d8c6dc68, type: 3}
+      propertyPath: m_Name
+      value: BirdInfo
       objectReference: {fileID: 0}
     - target: {fileID: 8387263799406140632, guid: c35ce2a958992204daca62f5d8c6dc68, type: 3}
       propertyPath: m_Name

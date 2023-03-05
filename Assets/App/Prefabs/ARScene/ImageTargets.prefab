@@ -11,7 +11,6 @@ GameObject:
   - component: {fileID: 5882141863055358393}
   - component: {fileID: 5882141863055358396}
   - component: {fileID: 5882141863055358395}
-  - component: {fileID: 5882141863055358394}
   m_Layer: 0
   m_Name: ImageTarget BlueJay
   m_TagString: Untagged
@@ -59,7 +58,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 5882141863055358394}
+  mPreview: {fileID: 5882141863055358394, guid: b54e31c57d3639046bb2c70a8c7149e7, type: 3}
 --- !u!114 &5882141863055358395
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -104,25 +103,6 @@ MonoBehaviour:
   OnTargetLost:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &5882141863055358394
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5882141863055358392}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mObserverBehaviour: {fileID: 5882141863055358396}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: blue-jay
-  mDatasetName: 
-  mCastedBehaviour: {fileID: 5882141863055358396}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!1 &5882141863494865335
 GameObject:
   m_ObjectHideFlags: 0
@@ -134,7 +114,6 @@ GameObject:
   - component: {fileID: 5882141863494865336}
   - component: {fileID: 5882141863494865339}
   - component: {fileID: 5882141863494865338}
-  - component: {fileID: 5882141863494865337}
   m_Layer: 0
   m_Name: ImageTarget Chickadee
   m_TagString: Untagged
@@ -182,7 +161,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 5882141863494865337}
+  mPreview: {fileID: 5882141863494865337, guid: b54e31c57d3639046bb2c70a8c7149e7, type: 3}
 --- !u!114 &5882141863494865338
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -227,25 +206,6 @@ MonoBehaviour:
   OnTargetLost:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &5882141863494865337
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5882141863494865335}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mObserverBehaviour: {fileID: 5882141863494865339}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: chickadee
-  mDatasetName: 
-  mCastedBehaviour: {fileID: 5882141863494865339}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!1 &5882141864147074416
 GameObject:
   m_ObjectHideFlags: 0
@@ -257,7 +217,6 @@ GameObject:
   - component: {fileID: 5882141864147074417}
   - component: {fileID: 5882141864147074420}
   - component: {fileID: 5882141864147074419}
-  - component: {fileID: 5882141864147074418}
   m_Layer: 0
   m_Name: ImageTarget Cardinal
   m_TagString: Untagged
@@ -305,7 +264,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 5882141864147074418}
+  mPreview: {fileID: 5882141864147074418, guid: b54e31c57d3639046bb2c70a8c7149e7, type: 3}
 --- !u!114 &5882141864147074419
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -350,25 +309,6 @@ MonoBehaviour:
   OnTargetLost:
     m_PersistentCalls:
       m_Calls: []
---- !u!114 &5882141864147074418
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5882141864147074416}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 1778676317, guid: 1e108ae5f2133934f948edded555f03e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  mObserverBehaviour: {fileID: 5882141864147074420}
-  mHiddenRoot: {fileID: 0}
-  mTargetName: cardinal
-  mDatasetName: 
-  mCastedBehaviour: {fileID: 5882141864147074420}
-  mMeshFilter: {fileID: 0}
-  mMeshRenderer: {fileID: 0}
 --- !u!1 &5882141864459420965
 GameObject:
   m_ObjectHideFlags: 0
