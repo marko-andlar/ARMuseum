@@ -73,3 +73,7 @@ crashlytics-build.properties
 
 # Vuforia
 Packages/com.ptc.vuforia.engine-*.tgz
+
+# Log Viewer auto-generated
+Assets/StreamingAssets/build_info
+Assets/StreamingAssets/build_info.meta
