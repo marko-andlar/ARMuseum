@@ -1,0 +1,31 @@
+{
+  "BlueJay": {
+    "name": "BlueJay",
+    "family": "Corvidae",
+    "class": "Aves",
+    "scientificName": "Cyanocitta cristata",
+    "kingdom": " Animalia",
+    "length": "22 - 30 cm",
+    "mass": "65 - 110 g",
+    "description": "The blue jay (Cyanocitta cristata) is a passerine bird in the family Corvidae, native to eastern North America. It resides through most of eastern and central United States, although western populations may be migratory. Resident populations are also found in Newfoundland, Canada, while breeding populations can be found across southern Canada. It breeds in both deciduous and coniferous forests, and is common in residential areas. It is predominantly blue with a white chest and underparts, and a blue crest; it has a black, U-shaped collar around its neck and a black border behind the crest. Males and females are similar in size and plumage, and plumage does not vary throughout the year. Four subspecies of the blue jay have been recognized."
+  },
+  "Cardinal": {
+    "name": "Cardinal",
+    "family": "Cardinalidae",
+    "scientificName": "Cardinalidae",
+    "kingdom": "Animalia",
+    "length": "21 - 24 cm",
+    "mass": "43 g",
+    "symbolOf": "Cardinals, in the family Cardinalidae, are passerine birds found in North and South America. They are also known as cardinal-grosbeaks and cardinal-buntings. Historically, the South American cardinals in the genus Paroaria have been placed in the tanager family Thraupidae. However, DNA analysis of the genera Piranga (which includes the scarlet tanager, summer tanager, and western tanager), Chlorothraupis, and Habia showed their closer relationship to the cardinal family. They have been reassigned to that family by the American Ornithological Society."
+  },
+  "Chickadee": {
+    "name": "Chickadee",
+    "scientificName": "Poecile carolinensis",
+    "kingdom": "Animalia",
+    "length": "12 cm",
+    "mass": "10 g (Adult)",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "conservationStatus": "The Carolina chickadee (Poecile carolinensis) is a small passerine bird in the tit family Paridae. It is often placed in the genus Parus with most other tits, but mtDNA cytochrome b sequence data and morphology suggest that separating Poecile more adequately expresses these birds' relationships (Gill et al., 2005). The American Ornithologists' Union has been treating Poecile as distinct genus since 1998. Adults are 11.5-13 cm (4.5-5.1 in) long with a weight of 9-12 g (0.32-0.42 oz), and have a black cap and bib with white sides to the face. Their underparts are white with rusty brown on the flanks; their back is grey. They have a short dark bill, short wings and a moderately long tail. Very similar to the black-capped chickadee, the Carolina chickadee is distinguished by the slightly browner wing with the greater coverts brown (not whitish fringed) and the white fringing on the secondary feathers slightly less conspicuous; the tail is also slightly shorter and more square-ended."
+  }
+}

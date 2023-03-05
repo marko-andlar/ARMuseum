@@ -1,0 +1,31 @@
+{
+  "BlueJay": {
+    "name": "Vrana",
+    "family": "Vrana familija",
+    "class": "Vrana klasa",
+    "scientificName": "Vranakus",
+    "kingdom": "Zivotinja",
+    "length": "22 - 30 cm",
+    "mass": "65 - 110 g",
+    "description": "Plava šojka (Cyanocitta cristata) ptica je vrapčica iz porodice Corvidae, porijeklom iz istočne Sjeverne Amerike. Prebiva u većini istočnih i središnjih Sjedinjenih Država, iako su zapadne populacije možda migratorne. Rezidentne populacije također se mogu naći u Newfoundlandu u Kanadi, dok se gnijezdeće populacije mogu naći diljem južne Kanade. Gnijezdi se u listopadnim i crnogoričnim šumama, a česta je i u stambenim područjima. Pretežno je plave boje s bijelim prsima i donjim dijelom te plavom krijestom; ima crni ovratnik u obliku slova U oko vrata i crni rub iza vrha. Mužjaci i ženke slične su veličine i perja, a perje se ne mijenja tijekom godine. Prepoznate su četiri podvrste plave šojke."
+  },
+  "Cardinal": {
+    "name": "Kardinali",
+    "family": "Vrapčice",
+    "scientificName": "Vrapčice",
+    "kingdom": "Zivotinja",
+    "length": "21 - 24 cm",
+    "mass": "43 g",
+    "symbolOf": "Kardinali, iz obitelji Cardinalidae, su ptice vrapčice koje žive u Sjevernoj i Južnoj Americi. Također su poznati kao kardinal-grosbeaks i cardinal-buttings. Povijesno gledano, južnoamerički kardinali iz roda Paroaria svrstani su u obitelj tanagera Thraupidae. Međutim, DNK analiza rodova Piranga (koji uključuje grimizni tanager, ljetni tanager i zapadni tanager), Chlorothraupis i Habia pokazala je njihov bliži odnos s kardinalskom obitelji. Američko ornitološko društvo ih je ponovno dodijelilo toj obitelji."
+  },
+  "Chickadee": {
+    "name": "Karolinska čavrica",
+    "scientificName": "Karolinskasis čavricasis",
+    "kingdom": "Zivotinja",
+    "length": "12 cm",
+    "mass": "10 g (Odrasla)",
+    "order": "Passeriformes",
+    "family": "Paridae",
+    "conservationStatus": "Karolinska čavrica (Poecile carolinensis) mala je ptica vrapčica iz porodice sjenica Paridae. Često se svrstava u rod Parus s većinom drugih sinica, ali podaci o sekvenci mtDNA citokroma b i morfologija sugeriraju da odvajanje Poecile primjerenije izražava odnose ovih ptica (Gill et al., 2005.). Američko udruženje ornitologa tretira Poecile kao zaseban rod od 1998. Odrasle jedinke duge su 11,5-13 cm (4,5-5,1 in) i teže 9-12 g (0,32-0,42 oz) i imaju crnu kapu i podsjetnik. s bijelim stranama prema licu. Donji dio im je bijel s hrđasto smeđim na bokovima; leđa su im siva. Imaju kratak tamni kljun, kratka krila i umjereno dugačak rep. Vrlo slična čikadi s crnom kapom, karolinska čika se razlikuje po malo smeđim krilima sa većim pokrivačima smeđim (ne s bjelkastim resama) i bijelim obrubom na sekundarnom perju koji je nešto manje uočljiv; rep je također nešto kraći i više četvrtastog kraja."
+  }
+}
