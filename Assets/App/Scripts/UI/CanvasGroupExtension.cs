@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace App.Scripts
+namespace App.Scripts.UI
 {
     [RequireComponent(typeof(CanvasGroup))]
     public class CanvasGroupExtension : MonoBehaviour
