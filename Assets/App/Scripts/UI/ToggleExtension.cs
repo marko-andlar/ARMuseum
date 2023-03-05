@@ -2,7 +2,7 @@ using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
 
-namespace App.Scripts
+namespace App.Scripts.UI
 {
     [RequireComponent(typeof(Toggle))]
     public class ToggleExtension : MonoBehaviour
