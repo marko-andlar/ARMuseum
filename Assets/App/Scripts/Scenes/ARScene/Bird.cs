@@ -3,7 +3,7 @@ using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using Vuforia;
 
-namespace App.Scripts.Scenes
+namespace App.Scripts.Scenes.ARScene
 {
     public class Bird : MonoBehaviour
     {
