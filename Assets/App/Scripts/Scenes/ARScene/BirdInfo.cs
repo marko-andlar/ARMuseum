@@ -3,7 +3,7 @@ using App.Scripts.UI;
 using UnityEngine;
 using UnityEngine.UI;
 
-namespace App.Scripts.Scenes
+namespace App.Scripts.Scenes.ARScene
 {
     public class BirdInfo : MonoBehaviour
     {
